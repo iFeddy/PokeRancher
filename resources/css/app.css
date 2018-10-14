@@ -1,0 +1,30 @@
+.mainView{
+    padding: 20px;
+    margin-top: 30px;
+    border-radius: 5px;
+    box-shadow: 1px 1px 5px #777777;
+    margin-bottom: 30px;
+}
+
+.bannerView{
+    /*background-color: #303030;*/
+    max-height: 450px;
+    overflow:hidden;
+}
+
+.rightPanel{
+    border-left: 1px solid #000; 
+}
+
+.footer{
+    padding: 70px !important; 
+}
+
+.showNew{
+    margin-bottom: 5px;
+    padding: 20px;
+}
+
+.showNew .ribbon{
+    margin-bottom: 10px !important;
+}
